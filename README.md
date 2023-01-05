@@ -2,4 +2,4 @@
 a simple html project about simple recipes
 
   + learn how to prepare 3 delicious recipes
-  + Forms to upload, login or creat account 
+  + Very basic login page
